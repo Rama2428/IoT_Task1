@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: #85CECE;
+    font-size: 25px; 
+   }
+   .mo{
+       background-color: white;
+   }
+.buttons{ 
+    text-align: center;
+    color: white;
+    padding: 15px 15px;
+    margin: 4px 4px;
+    font-size: 25px;
+    background-color: #53A8A8;}

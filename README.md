@@ -5,7 +5,7 @@ use programs to design the interface (I used Visual Studio)  <br/>
 ![](Images_Task1/interface.png)
 
 ## Create a database
-1-create database (I named 'task1') <br/>
+1-create a database (I named 'task1') <br/>
 2-create a table inside the database( I named 'motors') <br/>
 3-Add the columns<br/> 
 ![](Images_Task1/Database.png)

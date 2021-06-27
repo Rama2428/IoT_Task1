@@ -13,8 +13,8 @@ use programs to design the interface (I used Visual Studio)  <br/>
 
 ## Connecting the database with the motors interface
 Connect the code with the data then run it.<br/>
-Run the motor slider<br/>
+1-Run the motor slider<br/>
 ![](Images_Task1/Dataconnection1.png)<br/>
-Run the ON button<br/>
+2-Run the ON button<br/>
 ![](Images_Task1/Dataconnection2.png)
 
